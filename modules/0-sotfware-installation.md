@@ -27,7 +27,7 @@ $ source dldiy/bin/activate
 (dldiy)$ cd notebooks
 (dldiy)/notebooks$ pip install -r requirements.txt
 ```
-- You ae all set! If you launch `jupyter notebook`, you should be able to change the kernel to `dldiy`.
+- You are all set! If you launch `jupyter notebook`, you should be able to change the kernel to `dldiy`.
 
 ### tl;dr
 
